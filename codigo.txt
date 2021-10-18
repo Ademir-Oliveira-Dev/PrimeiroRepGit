@@ -6,3 +6,5 @@
 6 - Utilizar o git commit - Para fechar o pacote
 6.1 - Utilizar o git config --global - Para configurar o nome de usuário e Email
 7 - Utilizar o git commit com tudo configurado
+
+Teste inicial de commit no GitHub.
